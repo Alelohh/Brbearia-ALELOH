@@ -1,0 +1,56 @@
+/*página de estilização do site da barbearia*/
+ 
+body {
+	background: #000000;
+}
+
+h1 { text-align: center;
+    color: aliceblue;
+    font-size: 70px
+}
+
+p {
+ 	text-align: center;
+    color: aliceblue;
+ }
+
+
+ #missao  {
+  font-size: 20px
+   }
+
+ em strong {
+	color: rgb(88, 133, 121);
+}
+
+.meu-botao {
+
+    background-color:  rgb(255, 47, 0);
+
+    color: rgb(255, 255, 255);
+
+    border:blueviolet ;
+    
+    font-size: 50px;
+    
+    border-width: 25% 25% 25% 25%;
+    
+    border-radius: 70% 70% 70% 70%;
+    
+    padding: 25px;
+    
+    bottom: 10px;
+    
+    font-weight: red;
+}
+ 
+    .login{
+     text-align:center;
+     }
+    
+    .logo{
+        text-align: center;
+    }
+.cadastro{
+    text-align: center;
+}
