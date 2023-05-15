@@ -1,0 +1,25 @@
+#formulario {
+    text-align: center;
+    background-color: rgb(167, 118, 118);
+    border-radius: 40px;
+    margin: 90px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+body {
+    background-color: rgb(150, 67, 67);
+}
+input {
+    border-radius: 20px;
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    color:rgb(0, 0, 0);
+}
+button {
+    width: 300px;
+    height: 80px;
+    font-size: 25px;
+    border-radius: 20px;
+}
